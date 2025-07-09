@@ -1,4 +1,4 @@
-# CurrencyConverterApp
+# Currency Converter App
 A simple and user-friendly desktop application built using Qt and C++ that allows users to convert between various currencies.
 
 ##  Features
