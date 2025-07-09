@@ -1,1 +1,1 @@
-# CurrencyConvertorApp
+# CurrencyConverterApp
