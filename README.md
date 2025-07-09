@@ -15,6 +15,7 @@ A simple and user-friendly desktop application built using Qt and C++ that allow
 - *UI*: Designed with Qt Designer (.ui files)
   
 ## Screenshots
+![image alt](https://github.com/Prashasti05/CurrencyConvertorApp/blob/b7bf358d77998864fc6a20b0428a130e7435c461/screenshot_mainwindow.png)
 
 
 
