@@ -3,7 +3,7 @@ A simple and user-friendly desktop application built using Qt and C++ that allow
 
 ##  Features
 
--  Convert between multiple currencies (e.g., USD, EUR, INR)
+-  Convert between multiple currencies (e.g., USD, EUR, INR, GBP, JPY)
 -  Intuitive GUI using Qt Widgets
 -  Performs approximate conversions using fixed(hardcoded)exchange rates- values may differ slightly from real-time rates
 -  Accurate and fast conversion
