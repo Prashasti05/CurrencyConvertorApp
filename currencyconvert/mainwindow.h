@@ -18,14 +18,14 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
-private slots:            //QT specific slots-designed to respond to signals(like button clicks)
+private slots:            //QT specific slots-designed to respond to signals
     void convertCurrency();
     void on_convertButton_clicked();
 
-private:                //func called only inside mainwindow class
+private:                
     Ui::MainWindow *ui;
 
-    QMap<QString, double> rates;  //qt container/map to store key value pair(key=currency name,val=1.0)
+    QMap<QString, double> rates;  //qt container to store key value pair
     void fillCurrencies();
     void setRates();
 };
